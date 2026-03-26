@@ -8,5 +8,8 @@ staff/conf/config.php
 .DS_Store
 __MACOSX/
 
+# Microsoft Office temp files
+~$*
+
 # Logs
 *.log
