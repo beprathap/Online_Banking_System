@@ -1,4 +1,4 @@
-# Internet Banking System - KANYARASI
+# Internet Banking System
 
 > CS 5610 Group Project – Introduction to Cloud Computing | Instructor: Dr. Jun Wang
 
