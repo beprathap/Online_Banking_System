@@ -4,8 +4,6 @@
 
 The Online Banking System Project in PHP focuses mainly on online transactions, accounts, and much more. To be more precise, the system helps to keep track of all customers' information along with their transaction details. Also, the system displays all the available analytics. In addition, the system allows adding bank accounts too. Evidently, this project contains an admin panel with a customer panel. Highlighting the features of this banking system project in PHP, it contains every feature for the management side of things. In an overview of this web application, a customer can register themselves and log into the system. In this project, customer registration does not mean opening/creating bank accounts. That portion of work is to be done manually using the system.
 
-![System Overview](assets/screenshots/system_overview.jpeg)
-
 ---
 
 ## Table of Contents
