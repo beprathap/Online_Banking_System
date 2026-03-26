@@ -1,0 +1,12 @@
+# Sensitive credentials
+credentials.txt
+admin/conf/config.php
+client/conf/config.php
+staff/conf/config.php
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Logs
+*.log
